@@ -1,0 +1,54 @@
+/**
+ * [Table of Contents]
+ * Constants
+ * Header
+ * Blogs
+ * Footer
+ */
+
+/*
+ * Constants
+ */
+
+ .bg-white {
+    background: white;
+}
+
+/*
+ * Navbars (Header)
+ */
+
+.nav1
+{
+    background: #222;
+    color:white;
+}
+.nav2
+{
+
+}
+
+
+.navnews
+{
+    color:black;
+    border: inset 2px black;
+}
+.navbar1
+{
+    float: right
+}
+li.navbar1
+{
+    float: right
+}
+.icon
+{
+    font-size:20px;
+}
+.black
+{
+    background: #000000;
+    color:white;
+    text-align: center;
+}
